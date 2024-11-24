@@ -1,6 +1,6 @@
-## Bouton effet néomorphisme
+# Bouton effet néomorphisme
 
-# Description
+## Description
 
 Un bouton avec un effet néomorphisme idéal pour un menu hamburger
 *`index.html`: Structure de base un simple bouton
